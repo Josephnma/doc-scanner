@@ -1,0 +1,13 @@
+{
+  "name": "dynamic-web-twain-upload-server",
+  "version": "0.1.0",
+  "homepage": ".",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "formidable": "^3.5.1"
+  }
+}
